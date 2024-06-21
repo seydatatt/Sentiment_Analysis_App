@@ -1,7 +1,7 @@
 # Sentiment_Analysis_App
 This project is a sentiment analysis application developed using a Convolutional Neural Network (CNN). The model is trained on the "Twitter Sentiment Analysis" dataset from Kaggle. Additionally, a simple user interface has been created to interact with the model.
 
- #Introduction
+ Introduction
 This project aims to classify the sentiment of tweets using a CNN model. The sentiments are typically categorized as positive, negative, or neutral. The project includes both the model training and a basic interface for sentiment analysis.
 
 Dataset
